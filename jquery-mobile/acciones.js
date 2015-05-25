@@ -15,7 +15,7 @@ $(document).ready(function(e){
 				navigator.notification.beep(1);
 				break;
 				
-				case 1:
+				case 2:
 				navigator.notification.vibrate(1000);
 				break;
 			}//switch opt
